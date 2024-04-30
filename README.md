@@ -17,6 +17,9 @@
 <h3>Login</h3>
 <img src="./Client/src/assets/img/screenshots/login.png">
 
+<h3>Login</h3>
+<img src="./Client/src/assets/img/screenshots/signup.PNG">
+
 <h3>Home</h4>
 <img src="./Client/src/assets/img/screenshots/home-cards.png">
 
@@ -28,3 +31,5 @@
 
 <h3>About</h3>
 <img src="./Client/src/assets/img/screenshots/about.png">
+
+<a href="https://rickandmorty-client-b19y.onrender.com/" target="_blank">Proyecto en vivo</a>
