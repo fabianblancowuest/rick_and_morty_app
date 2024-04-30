@@ -54,7 +54,7 @@ const SignUp = () => {
 	// }
 	// const users = useSelector((state) => state.users);
 	const signUp = (userData) => {
-		const URL = "http://localhost:3001/rickandmorty/user/signup/";
+		const URL = "/rickandmorty/user/signup/";
 		axios.post(URL, userData);
 	};
 

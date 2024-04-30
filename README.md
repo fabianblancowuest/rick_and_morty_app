@@ -23,5 +23,8 @@
 <h3>Favorites</h3>
 <img src="./Client/src/assets/img/screenshots/favorites.png">
 
+<h3>Detail</h3>
+<img src="./Client/src/assets/img/screenshots/detail.PNG">
+
 <h3>About</h3>
 <img src="./Client/src/assets/img/screenshots/about.png">

@@ -5,11 +5,11 @@ const { Sequelize } = require("sequelize");
 const FavoriteModel = require("./models/Favorite");
 const UserModel = require("./models/User");
 
-// const sequelize = new Sequelize(
-// 	`postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}`,
-// 	{ logging: false, native: false },
-// );
-const sequelize = new Sequelize(DB_DEPLOY, { logging: false, native: false });
+const sequelize = new Sequelize(
+	`postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}`,
+	{ logging: false, native: false },
+);
+// const sequelize = new Sequelize(DB_DEPLOY, { logging: false, native: false });
 
 UserModel(sequelize);
 FavoriteModel(sequelize);
