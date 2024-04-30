@@ -18,7 +18,7 @@
 <img src="./Client/src/assets/img/screenshots/login.png">
 
 <h3>Sign Up</h3>
-<img src="./Client/src/assets/img/screenshots/signup.PNG">
+<img src="Client/src/assets/img/screenshots/signup.PNG">
 
 <h3>Home</h4>
 <img src="./Client/src/assets/img/screenshots/home-cards.png">
