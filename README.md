@@ -32,4 +32,6 @@
 <h3>About</h3>
 <img src="./Client/src/assets/img/screenshots/about.png">
 
-<a href="https://rickandmorty-client-b19y.onrender.com/" target="_blank"><h3>Proyecto en vivo🌐🔗</h3></a>
+<h3>
+<a href="https://rickandmorty-client-b19y.onrender.com/" target="_blank">Proyecto en vivo🌐🔗</a>
+</h3>
