@@ -17,7 +17,7 @@
 <h3>Login</h3>
 <img src="./Client/src/assets/img/screenshots/login.png">
 
-<h3>Login</h3>
+<h3>Sign Up</h3>
 <img src="./Client/src/assets/img/screenshots/signup.PNG">
 
 <h3>Home</h4>
@@ -32,4 +32,4 @@
 <h3>About</h3>
 <img src="./Client/src/assets/img/screenshots/about.png">
 
-<a href="https://rickandmorty-client-b19y.onrender.com/" target="_blank">Proyecto en vivo</a>
+<a href="https://rickandmorty-client-b19y.onrender.com/" target="_blank"><h3>Proyecto en vivo🌐🔗</h3></a>
